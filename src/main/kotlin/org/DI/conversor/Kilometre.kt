@@ -1,6 +1,6 @@
 package org.DI.conversor
 
-class Kilometre : Unit() {
+class Kilometre : LongitudeUnit() {
 
     override val valueUnit = 1.609
 

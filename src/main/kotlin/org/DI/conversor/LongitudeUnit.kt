@@ -1,6 +1,6 @@
 package org.DI.conversor
 
-abstract class Unit() : IConversor {
+abstract class LongitudeUnit() : IConversor {
 
     lateinit var destinationConvert: IConversor
 
